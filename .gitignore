@@ -1,5 +1,7 @@
 .idea
+.vscode
 *.iws
 *.iml
 *.ipr
 .uploads
+*.drawio.bkp
